@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Telecom Customer Churn Analysis](https://github.com/ananthakrishnasp/Telecom-Customer-Churn-Python-EDA-Project)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ananthakrishnasp](https://github.com/ananthakrishnasp)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ananthakrishnasp)
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Analytics!**
 
 - 📫 How to reach me **ananthakrishna243@gmail.com**
 
