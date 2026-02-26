@@ -1,12 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anantha+Krishna+S+P;Data+Analyst+%7C+Python+%7C+SQL+%7C+EDA;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananthakrishnasp&label=Profile%20Views&color=00b4d8&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ananthakrishnasp?label=Followers&style=flat&color=00b4d8" alt="Followers" />
-</p>
-
 ---
 
 ### 🧑‍💼 About Me
@@ -54,21 +48,6 @@
 | 🔗 [Telecom Customer Churn Analysis](https://github.com/ananthakrishnasp/Telecom-Customer-Churn-Python-EDA-Project) | End-to-end EDA to identify factors driving customer churn in telecom | Python, Pandas, Seaborn, Matplotlib |
 
 > 💡 *More projects coming soon — stay tuned!*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnasp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnasp&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnasp&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ### 🤝 Connect with Me
 
